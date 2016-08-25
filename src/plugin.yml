@@ -1,0 +1,5 @@
+name: MovementLogger
+main: com.gmail.lynx7478.movementlogger.MovementLogger
+author: SKA4
+version: 1.0
+description: Log all the movements of your players.
